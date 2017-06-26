@@ -15,6 +15,7 @@ A stand in server for the mobile devices, using [RoboHydra](http://robohydra.org
 
 #### Run the server on your machine
 
+0. go to `mockserver` folder.
 1. Run `npm install` to install project dependencies. You only need to do this the first time, or when dependencies change.
 2. Run the server with `npm start`
 3. Go to http://localhost:3000/robohydra-admin for the admin console.
