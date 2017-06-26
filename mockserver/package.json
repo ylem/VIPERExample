@@ -1,0 +1,23 @@
+{
+    "name": "DemoMockServer",
+    "version": "0.0.1",
+    "description": "#demo's mock server",
+    "main": "index.js",
+    "scripts": {
+        "start": "./node_modules/.bin/robohydra robohydra/configs/default.conf",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:ylem/VIPERExample.git"
+    },
+    "author": "Wei Lu",
+    "license": "Apache-2.0",
+    "homepage": "",
+    "engines": {
+        "node": "7.10.0"
+    },
+    "dependencies": {
+        "robohydra": "^0.6.5"
+    }
+}
